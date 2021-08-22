@@ -43,8 +43,9 @@ const useStyles = makeStyles({
         paddingLeft: 400,
         height: 30,
         backgroundColor: 'grey',
-        color: 'white',
+        color: 'black',
         padding: 10,
+        fontSize: 20
 
     }
 

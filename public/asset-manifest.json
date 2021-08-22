@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.b25f10dd.chunk.js",
+    "main.js.map": "/static/js/main.b25f10dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.93b29178.js",
+    "runtime-main.js.map": "/static/js/runtime-main.93b29178.js.map",
+    "static/js/2.d14d5a79.chunk.js": "/static/js/2.d14d5a79.chunk.js",
+    "static/js/2.d14d5a79.chunk.js.map": "/static/js/2.d14d5a79.chunk.js.map",
+    "static/js/3.8f636651.chunk.js": "/static/js/3.8f636651.chunk.js",
+    "static/js/3.8f636651.chunk.js.map": "/static/js/3.8f636651.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d14d5a79.chunk.js.LICENSE.txt": "/static/js/2.d14d5a79.chunk.js.LICENSE.txt",
+    "static/media/blogger.7a24984c.png": "/static/media/blogger.7a24984c.png",
+    "static/media/facebook.e764da59.png": "/static/media/facebook.e764da59.png",
+    "static/media/instagram.2e3b4d78.png": "/static/media/instagram.2e3b4d78.png",
+    "static/media/pizza.49f514bc.jpg": "/static/media/pizza.49f514bc.jpg",
+    "static/media/salaad-home.b881555d.png": "/static/media/salaad-home.b881555d.png",
+    "static/media/supermeal-app-screen.ee70c033.png": "/static/media/supermeal-app-screen.ee70c033.png",
+    "static/media/twitter.6208f93b.png": "/static/media/twitter.6208f93b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b29178.js",
+    "static/js/2.d14d5a79.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b25f10dd.chunk.js"
+  ]
+}
